@@ -5,7 +5,7 @@ namespace ObserverPattern
 {
     public class WeatherData : Subject
     {
-        private IList observers;
+        private List<Observer> observers;
         private float temperature;
         private float humidity;
         private float pressure;
