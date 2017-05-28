@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{DB790524-CAA4-4243-BC22-BFE0313D6D64}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HouseBlend.cs">
+    <Files>
+      <File FileName="Decaf.cs" Line="16" Column="1" />
+      <File FileName="Expresso.cs" Line="14" Column="1" />
+      <File FileName="Mocha.cs" Line="15" Column="23" />
+      <File FileName="Beverage.cs" Line="12" Column="32" />
+      <File FileName="DarkRoast.cs" Line="6" Column="27" />
+      <File FileName="HouseBlend.cs" Line="10" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.decoratorPatter PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
