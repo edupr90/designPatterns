@@ -14533,10 +14533,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Eduardo/Desktop/design patterns/designPatterns/ObserverPattern/ObserverPattern.csproj",
+      "projectUniqueName": "/Users/Eduardo/Projects/ObserverPattern/ObserverPattern.csproj",
       "projectName": "ObserverPattern",
-      "projectPath": "/Users/Eduardo/Desktop/design patterns/designPatterns/ObserverPattern/ObserverPattern.csproj",
-      "outputPath": "/Users/Eduardo/Desktop/design patterns/designPatterns/ObserverPattern/obj",
+      "projectPath": "/Users/Eduardo/Projects/ObserverPattern/ObserverPattern.csproj",
+      "outputPath": "/Users/Eduardo/Projects/ObserverPattern/obj",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"

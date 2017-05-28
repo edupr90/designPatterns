@@ -1,12 +1,7 @@
 ﻿<Properties StartupConfiguration="{DD1C6067-D252-4B4A-A906-62D43BE9353B}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Observer.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WeatherData.cs">
     <Files>
-      <File FileName="Program.cs" Line="12" Column="54" />
-      <File FileName="StatisticsDisplay.cs" Line="1" Column="1" />
-      <File FileName="WeatherData.cs" Line="43" Column="10" />
-      <File FileName="Subject.cs" Line="7" Column="36" />
-      <File FileName="CurrentCondition.cs" Line="1" Column="1" />
-      <File FileName="Observer.cs" Line="9" Column="1" />
+      <File FileName="WeatherData.cs" Line="14" Column="13" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
