@@ -8,11 +8,11 @@ namespace decoratorPatter
         {
             this.beverage = beverage;
         }
-        public string GetDescription()
+        override public string GetDescription()
         {
             return beverage.GetDescription() + ", Mocha"; 
         }
-        public double Cost()
+        override public double Cost()
         {
             return .20 + beverage.Cost();
         }

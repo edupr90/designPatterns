@@ -14533,10 +14533,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Eduardo/Projects/decoratorPatter/decoratorPatter.csproj",
+      "projectUniqueName": "/Users/Eduardo/Desktop/design patterns/designPatterns/decoratorPatter/decoratorPatter.csproj",
       "projectName": "decoratorPatter",
-      "projectPath": "/Users/Eduardo/Projects/decoratorPatter/decoratorPatter.csproj",
-      "outputPath": "/Users/Eduardo/Projects/decoratorPatter/obj",
+      "projectPath": "/Users/Eduardo/Desktop/design patterns/designPatterns/decoratorPatter/decoratorPatter.csproj",
+      "outputPath": "/Users/Eduardo/Desktop/design patterns/designPatterns/decoratorPatter/obj",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"

@@ -6,7 +6,9 @@ namespace decoratorPatter
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Beverage beverage = new Expresso();
+            beverage = new Mocha(beverage);
+            Console.WriteLine(beverage.GetDescription() + " $" + beverage.Cost());
         }
     }
 }

@@ -7,7 +7,7 @@ namespace decoratorPatter
         {
             description = "Espresso";
         }
-        public double Cost()
+        override public double Cost()
         {
             return 1.99;
         }

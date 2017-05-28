@@ -8,7 +8,7 @@ namespace decoratorPatter
         {
             description = "House Blend Cofee";
         }
-        public double Cost()
+        override public double Cost()
         {
             return .89;
         }

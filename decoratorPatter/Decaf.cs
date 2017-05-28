@@ -7,7 +7,7 @@ namespace decoratorPatter
         {
             description = "Decaf";
         }
-        public double Cost()
+        override public double Cost()
         {
             return 1.05;
         }

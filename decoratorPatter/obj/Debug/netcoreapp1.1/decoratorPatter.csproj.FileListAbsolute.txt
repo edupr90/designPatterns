@@ -1,0 +1,9 @@
+/Users/Eduardo/Projects/decoratorPatter/bin/Debug/netcoreapp1.1/decoratorPatter.deps.json
+/Users/Eduardo/Projects/decoratorPatter/bin/Debug/netcoreapp1.1/decoratorPatter.runtimeconfig.json
+/Users/Eduardo/Projects/decoratorPatter/bin/Debug/netcoreapp1.1/decoratorPatter.runtimeconfig.dev.json
+/Users/Eduardo/Projects/decoratorPatter/bin/Debug/netcoreapp1.1/decoratorPatter.dll
+/Users/Eduardo/Projects/decoratorPatter/bin/Debug/netcoreapp1.1/decoratorPatter.pdb
+/Users/Eduardo/Projects/decoratorPatter/obj/Debug/netcoreapp1.1/decoratorPatter.csproj.CoreCompileInputs.cache
+/Users/Eduardo/Projects/decoratorPatter/obj/Debug/netcoreapp1.1/decoratorPatter.AssemblyInfo.cs
+/Users/Eduardo/Projects/decoratorPatter/obj/Debug/netcoreapp1.1/decoratorPatter.dll
+/Users/Eduardo/Projects/decoratorPatter/obj/Debug/netcoreapp1.1/decoratorPatter.pdb

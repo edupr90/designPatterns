@@ -7,7 +7,7 @@ namespace decoratorPatter
         {
             description = "Dark Roast";
         }
-        public double Cost()
+        override public double Cost()
         {
             return .99;
         }
